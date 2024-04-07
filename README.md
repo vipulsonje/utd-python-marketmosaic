@@ -4,7 +4,7 @@
 
 # The project further delves into analyzing data about market indices and generating valuable insights.
 
-# Technology used:
-Language - Python
-Data Cleaning, Data Visualization
+# Technologies:
+# Language - Python
+# Data Cleaning, Data Visualization
 
