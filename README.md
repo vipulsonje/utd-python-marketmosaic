@@ -16,6 +16,8 @@ Object Oriented System Design
 
 Data Cleaning
 
+Data Analysis
+
 Data Visualization
 
 
